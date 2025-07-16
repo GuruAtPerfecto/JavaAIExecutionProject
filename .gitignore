@@ -1,0 +1,14 @@
+# Maven target directory
+target/
+
+# Logs
+*.log
+
+# Compiled class files
+*.class
+
+# IDE files
+*.iml
+.idea/
+*.swp
+.DS_Store
