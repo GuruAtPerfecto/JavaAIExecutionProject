@@ -12,3 +12,6 @@ target/
 .idea/
 *.swp
 .DS_Store
+.settings/
+.classpath
+.project
